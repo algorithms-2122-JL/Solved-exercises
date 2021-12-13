@@ -1,3 +1,6 @@
 queue
 stack
 tree
+**/__pycache
+**/.vscode
+**/.pytest_cache
